@@ -1,6 +1,18 @@
+in order to make it work you have to install some packge
+
+npm install -g json-server
+
+then start the server ... you must be in root folder
+
+json-server --watch data/db.json --port 3001
+
+
+
 # React + Vite
 
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
 
 Currently, two official plugins are available:
 
