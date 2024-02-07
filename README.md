@@ -4,7 +4,7 @@ npm install -g json-server
 
 then start the server ... you must be in root folder
 
-json-server --watch data/db.json --port 3001
+json-server --watch data/db.json --port 3500
 
 
 
